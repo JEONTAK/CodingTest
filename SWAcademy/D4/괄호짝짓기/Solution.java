@@ -1,4 +1,4 @@
-package D4.괄호짝짓기;
+package SWAcademy.D4.괄호짝짓기;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ class Solution {
     static int len;
     static List<Character> bracket;
 
-    public static void main(String args[]) throws Exception {
+    public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
         int T = 10;

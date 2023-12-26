@@ -1,4 +1,4 @@
-package D4.보급로;
+package SWAcademy.D4.보급로;
 
 import java.util.Scanner;
 
