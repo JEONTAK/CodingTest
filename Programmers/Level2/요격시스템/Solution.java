@@ -1,4 +1,4 @@
-package Programmers.요격시스템;
+package Programmers.Level2.요격시스템;
 
 /*
 문제 설명

@@ -1,4 +1,4 @@
-package Programmers.두원사이의정수쌍;
+package Programmers.Level2.두원사이의정수쌍;
 
 /*
 문제 설명

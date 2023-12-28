@@ -1,4 +1,4 @@
-package Programmers.연속된부분수열의합;
+package Programmers.Level2.연속된부분수열의합;
 
 /*
 문제 설명
