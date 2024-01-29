@@ -2,6 +2,11 @@
 
 ## BaekJoon
 
+### Gold 1
+
+- 구간 합 구하기
+- K번째 수
+
 ### Gold 3
 
 - ACM Craft
