@@ -28,6 +28,10 @@
 
 - 고층 건물
 
+## Gold 5
+
+- Fly me to the AlphaCentauri
+
 ## Programmers
 
 ### Level2

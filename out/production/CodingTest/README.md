@@ -17,7 +17,8 @@
 - 다리 만들기 2
 - 부분 수열의 합 2
 - 달이 차오른다, 가자.
-- 비숍 
+- 비숍
+- 커피숍2
 
 ### Gold 3
 
@@ -26,6 +27,10 @@
 ### Gold 4
 
 - 고층 건물
+
+## Gold 5
+
+- Fly me to the AlphaCentauri
 
 ## Programmers
 
