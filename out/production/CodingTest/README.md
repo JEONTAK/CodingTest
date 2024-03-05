@@ -31,6 +31,9 @@
 ## Gold 5
 
 - Fly me to the AlphaCentauri
+- Contact
+- 제곱수 찾기
+- 감소하는 수
 
 ## Programmers
 
