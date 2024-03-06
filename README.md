@@ -34,6 +34,7 @@
 - Contact
 - 제곱수 찾기
 - 감소하는 수
+- 주사위
 
 ## Programmers
 
