@@ -29,7 +29,7 @@
 
 - 고층 건물
 
-## Gold 5
+### Gold 5
 
 - Fly me to the AlphaCentauri
 - Contact
@@ -42,6 +42,7 @@
 - 리모컨
 - 색칠 1
 - 단어 만들기
+- 줄어드는 수
 
 
 ## Programmers
