@@ -70,6 +70,7 @@
 - LCS
 - 탑
 - 별찍기 - 10
+- 동전 2
 
 
 ## Programmers
