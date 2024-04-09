@@ -79,6 +79,7 @@
 - 두 용액
 - 암호 코드
 - ABCDE
+- 강의실 배정
 
 ## Programmers
 
