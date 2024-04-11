@@ -3,6 +3,7 @@ package BaekJoon.Gold5.뱀과사다리게임;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -11,14 +12,12 @@ public class BOJ16928 {
 
     static class Game {
         int loc;
-        int ladder;
-        int snake;
+        int goTo;
         int dice;
 
-        public Game(int loc, int ladder, int snake, int dice) {
+        public Game(int loc, int goTo, int dice) {
             this.loc = loc;
-            this.ladder = ladder;
-            this.snake = snake;
+            this.goTo = goTo;
             this.dice = dice;
         }
     }
@@ -35,21 +34,17 @@ public class BOJ16928 {
         games = new Game[101];
         visited = new boolean[101];
         for (int i = 1; i < 101; i++) {
-            games[i] = new Game(i,0,0,Integer.MAX_VALUE);
+            games[i] = new Game(i,0,Integer.MAX_VALUE);
         }
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < N + M; i++) {
             st = new StringTokenizer(br.readLine());
-            games[Integer.parseInt(st.nextToken())].ladder = Integer.parseInt(st.nextToken());
-        }
-        for (int i = 0; i < M; i++) {
-            st = new StringTokenizer(br.readLine());
-            games[Integer.parseInt(st.nextToken())].snake = Integer.parseInt(st.nextToken());
+            games[Integer.parseInt(st.nextToken())].goTo = Integer.parseInt(st.nextToken());
         }
         compute();
     }
 
     static void compute() {
-        Queue<Game> q = new LinkedList<>();
+        Queue<Game> q = new ArrayDeque<>();
         games[1].dice = 0;
         visited[1] = true;
         q.offer(games[1]);
@@ -68,13 +63,10 @@ public class BOJ16928 {
                     continue;
                 }
                 if(!visited[nextIdx]){
-                    if (games[nextIdx].ladder != 0) {
-                        games[games[nextIdx].ladder].dice = Math.min(games[games[nextIdx].ladder].dice,game.dice + 1);
-                        q.offer(games[games[nextIdx].ladder]);
-                    } else if (games[nextIdx].snake != 0) {
-                        games[games[nextIdx].snake].dice = Math.min(games[games[nextIdx].snake].dice,game.dice + 1);
-                        q.offer(games[games[nextIdx].snake]);
-                    } else {
+                    if (games[nextIdx].goTo != 0) {
+                        games[games[nextIdx].goTo].dice = Math.min(games[games[nextIdx].goTo].dice, game.dice + 1);
+                        q.offer(games[games[nextIdx].goTo]);
+                    }else {
                         games[nextIdx].dice = Math.min(games[nextIdx].dice,game.dice + 1);
                         q.offer(games[nextIdx]);
                     }
