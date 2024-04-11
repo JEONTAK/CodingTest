@@ -87,8 +87,8 @@
 - 파이프 옮기기 1
 - 뱀과 사다리 게임
 - 톱니바퀴
-- 전깃줄
-
+- 전깃줄 
+- [용액](BaekJoon/Gold5/용액/BOJ2467.java)
 ## Programmers
 
 ### Level2
