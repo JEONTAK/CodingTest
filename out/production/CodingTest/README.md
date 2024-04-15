@@ -44,6 +44,7 @@
 - [내려가기](BaekJoon/Gold5/내려가기/BOJ2096.java)
 - [노드사이의거리](BaekJoon/Gold5/노드사이의거리/BOJ1240.java)
 - [농장관리](BaekJoon/Gold5/농장관리/BOJ1245.java)
+- [다각형의면적](BaekJoon/Gold5/다각형의면적/BOJ2166.java)
 - [다음팰린드롬수](BaekJoon/Gold5/다음팰린드롬수/BOJ1334.java)
 - [다이어트](BaekJoon/Gold5/다이어트/BOJ1484.java)
 - [단어만들기](BaekJoon/Gold5/단어만들기/BOJ1148.java)
