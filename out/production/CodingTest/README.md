@@ -54,6 +54,7 @@
 - [두용액](BaekJoon/Gold5/두용액/BOJ2470.java)
 - [로봇청소기](BaekJoon/Gold5/로봇청소기/BOJ14503.java)
 - [리모컨](BaekJoon/Gold5/리모컨/BOJ1107.java)
+- [맥주마시면서걸어가기](BaekJoon/Gold5/맥주마시면서걸어가기/BOJ9205.java)
 - [머리톡톡](BaekJoon/Gold5/머리톡톡/BOJ1241.java)
 - [무한수열](BaekJoon/Gold5/무한수열/BOJ1351.java)
 - [무한수열2](BaekJoon/Gold5/무한수열2/BOJ1354.java)
