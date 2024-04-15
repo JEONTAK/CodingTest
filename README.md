@@ -40,6 +40,7 @@
 - [강의실](BaekJoon/Gold5/강의실/BOJ1374.java)
 - [강의실배정](BaekJoon/Gold5/강의실배정/BOJ11000.java)
 - [거의소수](BaekJoon/Gold5/거의소수/BOJ1456.java)
+- [경쟁적전염](BaekJoon/Gold5/경쟁적전염/BOJ18405.java)
 - [괄호의값](BaekJoon/Gold5/괄호의값/BOJ2504.java)
 - [내려가기](BaekJoon/Gold5/내려가기/BOJ2096.java)
 - [노드사이의거리](BaekJoon/Gold5/노드사이의거리/BOJ1240.java)
