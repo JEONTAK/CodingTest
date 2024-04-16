@@ -70,6 +70,7 @@
 - [시간관리](BaekJoon/Gold5/시간관리/BOJ1263.java)
 - [암호만들기](BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [암호코드](BaekJoon/Gold5/암호코드/BOJ2011.java)
+- [연속합2](BaekJoon/Gold5/연속합2/BOJ13398.java)
 - [영어읽기](BaekJoon/Gold5/영어읽기/BOJ1501.java)
 - [용액](BaekJoon/Gold5/용액/BOJ2467.java)
 - [이진검색트리](BaekJoon/Gold5/이진검색트리/BOJ5639.java)
