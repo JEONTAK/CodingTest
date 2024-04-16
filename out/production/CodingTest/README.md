@@ -65,6 +65,7 @@
 - [보물섬](BaekJoon/Gold5/보물섬/BOJ2589.java)
 - [부분직사각형](BaekJoon/Gold5/부분직사각형/BOJ1286.java)
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
+- [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [시간관리](BaekJoon/Gold5/시간관리/BOJ1263.java)
 - [암호만들기](BaekJoon/Gold5/암호만들기/BOJ1759.java)
