@@ -31,6 +31,7 @@
 
 ### Gold 5
 
+- [1학년](BaekJoon/Gold5/_1학년/BOJ5557.java)
 - [ABCDE](BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](BaekJoon/Gold5/AC/BOJ5430.java)
 - [Contact](BaekJoon/Gold5/Contact/BOJ1013.java)
