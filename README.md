@@ -72,6 +72,7 @@
 - [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
+- [숫자고르기](BaekJoon/Gold5/숫자고르기/BOJ2668.java)
 - [시간관리](BaekJoon/Gold5/시간관리/BOJ1263.java)
 - [신기한소수](BaekJoon/Gold5/신기한소수/BOJ2023.java)
 - [암호만들기](BaekJoon/Gold5/암호만들기/BOJ1759.java)
