@@ -80,6 +80,7 @@
 - [암호코드](BaekJoon/Gold5/암호코드/BOJ2011.java)
 - [연속합2](BaekJoon/Gold5/연속합2/BOJ13398.java)
 - [영어읽기](BaekJoon/Gold5/영어읽기/BOJ1501.java)
+- [옥상정원꾸미기](BaekJoon/Gold5/옥상정원꾸미기/BOJ6198.java)
 - [용액](BaekJoon/Gold5/용액/BOJ2467.java)
 - [이진검색트리](BaekJoon/Gold5/이진검색트리/BOJ5639.java)
 - [입국심사](BaekJoon/Gold5/입국심사/BOJ3079.java)
