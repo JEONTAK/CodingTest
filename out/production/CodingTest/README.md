@@ -40,6 +40,7 @@
 - [감소하는수](BaekJoon/Gold5/감소하는수/BOJ1038.java)
 - [강의실](BaekJoon/Gold5/강의실/BOJ1374.java)
 - [강의실배정](BaekJoon/Gold5/강의실배정/BOJ11000.java)
+- [개똥벌레](BaekJoon/Gold5/개똥벌레/BOJ3020.java)
 - [거의소수](BaekJoon/Gold5/거의소수/BOJ1456.java)
 - [경쟁적전염](BaekJoon/Gold5/경쟁적전염/BOJ18405.java)
 - [공통부분문자열](BaekJoon/Gold5/공통부분문자열/BOJ5582.java)
