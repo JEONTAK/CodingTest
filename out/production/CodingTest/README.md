@@ -66,6 +66,7 @@
 - [별찍기10](BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](BaekJoon/Gold5/보물섬/BOJ2589.java)
 - [부분직사각형](BaekJoon/Gold5/부분직사각형/BOJ1286.java)
+- [빗물](BaekJoon/Gold5/빗물/BOJ14719.java)
 - [상범빌딩](BaekJoon/Gold5/상범빌딩/BOJ6593.java)
 - [상어초등학교](BaekJoon/Gold5/상어초등학교/BOJ21608.java)
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
