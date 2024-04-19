@@ -85,6 +85,7 @@
 - [용액](BaekJoon/Gold5/용액/BOJ2467.java)
 - [이진검색트리](BaekJoon/Gold5/이진검색트리/BOJ5639.java)
 - [입국심사](BaekJoon/Gold5/입국심사/BOJ3079.java)
+- [자두나무](BaekJoon/Gold5/자두나무/BOJ2240.java)
 - [자리수로나누기](BaekJoon/Gold5/자리수로나누기/BOJ1490.java)
 - [적록색약](BaekJoon/Gold5/적록색약/BOJ10026.java)
 - [전깃줄](BaekJoon/Gold5/전깃줄/BOJ2565.java)
