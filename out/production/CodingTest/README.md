@@ -63,6 +63,7 @@
 - [머리톡톡](BaekJoon/Gold5/머리톡톡/BOJ1241.java)
 - [무한수열](BaekJoon/Gold5/무한수열/BOJ1351.java)
 - [무한수열2](BaekJoon/Gold5/무한수열2/BOJ1354.java)
+- [물통](BaekJoon/Gold5/물통/BOJ2251.java)
 - [배](BaekJoon/Gold5/배/BOJ1092.java)
 - [뱀과사다리게임](BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
 - [별찍기10](BaekJoon/Gold5/별찍기10/BOJ2447.java)
