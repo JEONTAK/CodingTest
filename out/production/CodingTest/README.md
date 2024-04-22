@@ -59,6 +59,7 @@
 - [동전2](BaekJoon/Gold5/동전2/BOJ2294.java)
 - [되돌리기](BaekJoon/Gold5/되돌리기/BOJ1360.java)
 - [두용액](BaekJoon/Gold5/두용액/BOJ2470.java)
+- [로봇시뮬레이션](BaekJoon/Gold5/로봇시뮬레이션/BOJ2174.java)
 - [로봇청소기](BaekJoon/Gold5/로봇청소기/BOJ14503.java)
 - [리모컨](BaekJoon/Gold5/리모컨/BOJ1107.java)
 - [마법사상어와비바라기](BaekJoon/Gold5/마법사상어와비바라기/BOJ21610.java)
