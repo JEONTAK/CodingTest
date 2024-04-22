@@ -77,6 +77,7 @@
 - [상어초등학교](BaekJoon/Gold5/상어초등학교/BOJ21608.java)
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
 - [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
+- [센서](BaekJoon/Gold5/센서/BOJ2212.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [숫자고르기](BaekJoon/Gold5/숫자고르기/BOJ2668.java)
