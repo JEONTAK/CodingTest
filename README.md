@@ -41,6 +41,7 @@
 - [Fly me to the alpha centauri](BaekJoon/Gold5/FlyMeToTheAlphaCentauri/BOJ1011.java)
 - [LCS](BaekJoon/Gold5/LCS/BOJ9251.java)
 - [감소하는수](BaekJoon/Gold5/감소하는수/BOJ1038.java)
+- [감시피하기](BaekJoon/Gold5/감시피하기/BOJ18428.java)
 - [강의실](BaekJoon/Gold5/강의실/BOJ1374.java)
 - [강의실배정](BaekJoon/Gold5/강의실배정/BOJ11000.java)
 - [개똥벌레](BaekJoon/Gold5/개똥벌레/BOJ3020.java)
