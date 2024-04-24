@@ -85,6 +85,7 @@
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
 - [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [센서](BaekJoon/Gold5/센서/BOJ2212.java)
+- [소트](BaekJoon/Gold5/소트/BOJ1083.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [순열의순서](BaekJoon/Gold5/순열의순서/BOJ1722.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
