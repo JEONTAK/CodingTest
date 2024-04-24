@@ -34,7 +34,6 @@ public class BOJ10835 {
         }
         dp[0][0] = 0;
 
-
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
                 dp[i + 1][j + 1] = Math.max(dp[i + 1][j + 1], dp[i][j]);
