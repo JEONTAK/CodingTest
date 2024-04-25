@@ -9,7 +9,7 @@ public class BOJ16935 {
 
     static int N, M, R;
     static int [][] list;
-    static int o;
+    static int[] o;
 
     private static void solution() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -18,6 +18,7 @@ public class BOJ16935 {
         M = Integer.parseInt(st.nextToken());
         R = Integer.parseInt(st.nextToken());
         list = new int[N][M];
+        o = new int[R];
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
             for (int j = 0; j < M; j++) {
@@ -26,8 +27,32 @@ public class BOJ16935 {
         }
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < R; i++) {
-            o = Integer.parseInt(st.nextToken());
-            compute(o);
+            o[i] = Integer.parseInt(st.nextToken());
+        }
+        for (int i = 1; i < R; i++) {
+            if (o[i - 1] == 1 && o[i] == 1) {
+                o[i - 1] = 0;
+                o[i] = 0;
+            } else if (o[i - 1] == 2 && o[i] == 2) {
+                o[i - 1] = 0;
+                o[i] = 0;
+            } else if (o[i - 1] == 3 && o[i] == 4) {
+                o[i - 1] = 0;
+                o[i] = 0;
+            } else if(o[i - 1] == 4 && o[i] == 3){
+                o[i - 1] = 0;
+                o[i] = 0;
+            } else if(o[i - 1] == 5 && o[i] == 6){
+                o[i - 1] = 0;
+                o[i] = 0;
+            }else if(o[i - 1] == 6 && o[i] == 5){
+                o[i - 1] = 0;
+                o[i] = 0;
+            }
+        }
+
+        for (int i = 0; i < R; i++) {
+            compute(o[i]);
         }
 
         for (int i = 0; i < list.length; i++) {
@@ -38,7 +63,9 @@ public class BOJ16935 {
         }
     }
     static void compute(int operation){
-        if (operation == 1) {
+        if (operation == 0) {
+
+        } else if (operation == 1) {
             reverseTD();
         } else if (operation == 2) {
             reverseLR();
