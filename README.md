@@ -52,6 +52,7 @@
 - [공주님을구해라!](BaekJoon/Gold5/공주님을구해라/BOJ17836.java)
 - [공통부분문자열](BaekJoon/Gold5/공통부분문자열/BOJ5582.java)
 - [괄호의값](BaekJoon/Gold5/괄호의값/BOJ2504.java)
+- [꿀따기](BaekJoon/Gold5/꿀따기/BOJ21758.java)
 - [내려가기](BaekJoon/Gold5/내려가기/BOJ2096.java)
 - [노드사이의거리](BaekJoon/Gold5/노드사이의거리/BOJ1240.java)
 - [농장관리](BaekJoon/Gold5/농장관리/BOJ1245.java)
