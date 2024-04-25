@@ -89,6 +89,7 @@
 - [센서](BaekJoon/Gold5/센서/BOJ2212.java)
 - [소트](BaekJoon/Gold5/소트/BOJ1083.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
+- [수이어쓰기2](BaekJoon/Gold5/수이어쓰기2/BOJ1790.java)
 - [순열의순서](BaekJoon/Gold5/순열의순서/BOJ1722.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [숫자고르기](BaekJoon/Gold5/숫자고르기/BOJ2668.java)
