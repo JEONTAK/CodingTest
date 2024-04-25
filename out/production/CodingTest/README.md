@@ -47,6 +47,7 @@
 - [개똥벌레](BaekJoon/Gold5/개똥벌레/BOJ3020.java)
 - [거의소수](BaekJoon/Gold5/거의소수/BOJ1456.java)
 - [경쟁적전염](BaekJoon/Gold5/경쟁적전염/BOJ18405.java)
+- [계란으로계란치기](BaekJoon/Gold5/계란으로계란치기/BOJ16987.java)
 - [공약수](BaekJoon/Gold5/공약수/BOJ2436.java)
 - [공주님을구해라!](BaekJoon/Gold5/공주님을구해라/BOJ17836.java)
 - [공통부분문자열](BaekJoon/Gold5/공통부분문자열/BOJ5582.java)
