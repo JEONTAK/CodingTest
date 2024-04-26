@@ -90,6 +90,7 @@
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
 - [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
 - [센서](BaekJoon/Gold5/센서/BOJ2212.java)
+- [소수인팰린드롬](BaekJoon/Gold5/소수인팰린드롬/BOJ1990.java)
 - [소트](BaekJoon/Gold5/소트/BOJ1083.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
 - [수이어쓰기2](BaekJoon/Gold5/수이어쓰기2/BOJ1790.java)
