@@ -102,6 +102,7 @@
 - [숫자고르기](BaekJoon/Gold5/숫자고르기/BOJ2668.java)
 - [시간관리](BaekJoon/Gold5/시간관리/BOJ1263.java)
 - [신기한소수](BaekJoon/Gold5/신기한소수/BOJ2023.java)
+- [알약](BaekJoon/Gold5/알약/BOJ4811.java)
 - [암호만들기](BaekJoon/Gold5/암호만들기/BOJ1759.java)
 - [암호코드](BaekJoon/Gold5/암호코드/BOJ2011.java)
 - [압축](BaekJoon/Gold5/압축/BOJ1662.java)
