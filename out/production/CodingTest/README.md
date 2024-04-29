@@ -133,6 +133,7 @@
 - [퇴사](BaekJoon/Gold5/퇴사2/BOJ15486.java)
 - [트리](BaekJoon/Gold5/트리/BOJ1068.java)
 - [트리와쿼리](BaekJoon/Gold5/트리와쿼리/BOJ15681.java)
+- [틱택토](BaekJoon/Gold5/틱택토/BOJ7682.java)
 - [파이프옮기기1](BaekJoon/Gold5/파이프옮기기1/BOJ17070.java)
 - [평범한배낭](BaekJoon/Gold5/평범한배낭/BOJ12865.java)
 - [하노이탑](BaekJoon/Gold5/하노이탑/BOJ1914.java)
