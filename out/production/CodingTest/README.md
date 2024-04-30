@@ -129,6 +129,7 @@
 - [컨베이어벨트위의로봇](BaekJoon/Gold5/컨베이어벨트위의로봇/BOJ20055.java)
 - [킥다운](BaekJoon/Gold5/킥다운/BOJ1195.java)
 - [탑](BaekJoon/Gold5/탑/BOJ2493.java)
+- [택배배송](BaekJoon/Gold5/택배배송/BOJ5972.java)
 - [토마토](BaekJoon/Gold5/토마토/BOJ7576.java)
 - [토마토2](BaekJoon/Gold5/토마토2/BOJ7569.java)
 - [톱니바퀴](BaekJoon/Gold5/톱니바퀴/BOJ14891.java)
