@@ -127,6 +127,7 @@
 - [치킨배달](BaekJoon/Gold5/치킨배달/BOJ15686.java)
 - [카드게임](BaekJoon/Gold5/카드게임/BOJ10835.java)
 - [컨베이어벨트위의로봇](BaekJoon/Gold5/컨베이어벨트위의로봇/BOJ20055.java)
+- [크리보드](BaekJoon/Gold5/크리보드/BOJ11058.java)
 - [킥다운](BaekJoon/Gold5/킥다운/BOJ1195.java)
 - [탑](BaekJoon/Gold5/탑/BOJ2493.java)
 - [택배배송](BaekJoon/Gold5/택배배송/BOJ5972.java)
