@@ -125,6 +125,7 @@
 - [집합의표현](BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [체스판다시칠하기2](BaekJoon/Gold5/체스판다시칠하기2/BOJ25682.java)
 - [최소비용구하기](BaekJoon/Gold5/최소비용구하기/BOJ1916.java)
+- [최소회의실개수](BaekJoon/Gold5/최소회의실개수/BOJ19598.java)
 - [치킨배달](BaekJoon/Gold5/치킨배달/BOJ15686.java)
 - [카드게임](BaekJoon/Gold5/카드게임/BOJ10835.java)
 - [컨베이어벨트위의로봇](BaekJoon/Gold5/컨베이어벨트위의로봇/BOJ20055.java)
