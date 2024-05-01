@@ -81,6 +81,7 @@
 - [무한수열2](BaekJoon/Gold5/무한수열2/BOJ1354.java)
 - [물통](BaekJoon/Gold5/물통/BOJ2251.java)
 - [배](BaekJoon/Gold5/배/BOJ1092.java)
+- [배열돌리기2](BaekJoon/Gold5/배열돌리기2/BOJ16927.java)
 - [배열돌리기3](BaekJoon/Gold5/배열돌리기3/BOJ16935.java)
 - [백도어](BaekJoon/Gold5/백도어/BOJ17396.java)
 - [뱀과사다리게임](BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
