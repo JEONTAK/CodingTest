@@ -121,6 +121,7 @@
 - [전깃줄](BaekJoon/Gold5/전깃줄/BOJ2565.java)
 - [제곱수찾기](BaekJoon/Gold5/제곱수찾기/BOJ1025.java)
 - [주사위](BaekJoon/Gold5/주사위/BOJ1041.java)
+- [주사위쌓기](BaekJoon/Gold5/주사위쌓기/BOJ2116.java)
 - [줄어드는수](BaekJoon/Gold5/줄어드는수/BOJ1174.java)
 - [집합의표현](BaekJoon/Gold5/집합의표현/BOJ1717.java)
 - [체스판다시칠하기2](BaekJoon/Gold5/체스판다시칠하기2/BOJ25682.java)
