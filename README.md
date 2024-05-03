@@ -94,6 +94,7 @@
 - [상어초등학교](BaekJoon/Gold5/상어초등학교/BOJ21608.java)
 - [색칠1](BaekJoon/Gold5/색칠1/BOJ1117.java)
 - [선긋기](BaekJoon/Gold5/선긋기/BOJ2170.java)
+- [선발명단](BaekJoon/Gold5/선발명단/BOJ3980.java)
 - [선수과목](BaekJoon/Gold5/선수과목/BOJ14567.java)
 - [센서](BaekJoon/Gold5/센서/BOJ2212.java)
 - [소수인팰린드롬](BaekJoon/Gold5/소수인팰린드롬/BOJ1990.java)
