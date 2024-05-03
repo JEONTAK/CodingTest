@@ -86,6 +86,7 @@
 - [배열돌리기3](BaekJoon/Gold5/배열돌리기3/BOJ16935.java)
 - [백도어](BaekJoon/Gold5/백도어/BOJ17396.java)
 - [뱀과사다리게임](BaekJoon/Gold5/뱀과사다리게임/BOJ16928.java)
+- [벼락치기](BaekJoon/Gold5/벼락치기/BOJ14728.java)
 - [별찍기10](BaekJoon/Gold5/별찍기10/BOJ2447.java)
 - [보물섬](BaekJoon/Gold5/보물섬/BOJ2589.java)
 - [부분직사각형](BaekJoon/Gold5/부분직사각형/BOJ1286.java)
