@@ -101,6 +101,7 @@
 - [소수인팰린드롬](BaekJoon/Gold5/소수인팰린드롬/BOJ1990.java)
 - [소트](BaekJoon/Gold5/소트/BOJ1083.java)
 - [수고르기](BaekJoon/Gold5/수고르기/BOJ2230.java)
+- [수나누기게임](BaekJoon/Gold5/수나누기게임/BOJ27172.java)
 - [수이어쓰기2](BaekJoon/Gold5/수이어쓰기2/BOJ1790.java)
 - [순열의순서](BaekJoon/Gold5/순열의순서/BOJ1722.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
