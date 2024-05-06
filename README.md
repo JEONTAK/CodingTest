@@ -33,6 +33,7 @@
 
 - [0만들기](BaekJoon/Gold5/_0만들기/BOJ7490.java)
 - [1학년](BaekJoon/Gold5/_1학년/BOJ5557.java)
+- [2의멱수의합](BaekJoon/Gold5/_2의멱수의합/BOJ2410.java)
 - [1,2,3더하기4](BaekJoon/Gold5/_123더하기4/BOJ15989.java)
 - [ABCDE](BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](BaekJoon/Gold5/AC/BOJ5430.java)
