@@ -65,6 +65,7 @@
 - [다음팰린드롬수](BaekJoon/Gold5/다음팰린드롬수/BOJ1334.java)
 - [다이어트](BaekJoon/Gold5/다이어트/BOJ1484.java)
 - [단어만들기](BaekJoon/Gold5/단어만들기/BOJ1148.java)
+- [돌게임6](BaekJoon/Gold5/돌게임6/BOJ9660.java)
 - [동전](BaekJoon/Gold5/동전/BOJ9084.java)
 - [동전1](BaekJoon/Gold5/동전1/BOJ2293.java)
 - [동전2](BaekJoon/Gold5/동전2/BOJ2294.java)
