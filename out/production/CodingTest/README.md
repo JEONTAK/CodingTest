@@ -127,6 +127,7 @@
 - [적록색약](BaekJoon/Gold5/적록색약/BOJ10026.java)
 - [전구와스위치](BaekJoon/Gold5/전구와스위치/BOJ2138.java)
 - [전깃줄](BaekJoon/Gold5/전깃줄/BOJ2565.java)
+- [점프게임](BaekJoon/Gold5/점프게임/BOJ15558.java)
 - [제곱수찾기](BaekJoon/Gold5/제곱수찾기/BOJ1025.java)
 - [주사위](BaekJoon/Gold5/주사위/BOJ1041.java)
 - [주사위쌓기](BaekJoon/Gold5/주사위쌓기/BOJ2116.java)
