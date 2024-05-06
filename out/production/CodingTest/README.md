@@ -121,6 +121,7 @@
 - [영어읽기](BaekJoon/Gold5/영어읽기/BOJ1501.java)
 - [옥상정원꾸미기](BaekJoon/Gold5/옥상정원꾸미기/BOJ6198.java)
 - [용액](BaekJoon/Gold5/용액/BOJ2467.java)
+- [용액합성하기](BaekJoon/Gold5/용액합성하기/BOJ14921.java)
 - [이진검색트리](BaekJoon/Gold5/이진검색트리/BOJ5639.java)
 - [입국심사](BaekJoon/Gold5/입국심사/BOJ3079.java)
 - [자두나무](BaekJoon/Gold5/자두나무/BOJ2240.java)
