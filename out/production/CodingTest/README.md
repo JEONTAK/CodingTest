@@ -37,6 +37,7 @@
 - [1,2,3더하기4](BaekJoon/Gold5/_123더하기4/BOJ15989.java)
 - [ABCDE](BaekJoon/Gold5/ABCDE/BOJ13023.java)
 - [AC](BaekJoon/Gold5/AC/BOJ5430.java)
+- [a^b](BaekJoon/Gold5/aPOWb/BOJ10827.java)
 - [A와B](BaekJoon/Gold5/A와B/BOJ12904.java)
 - [A와B2](BaekJoon/Gold5/A와B2/BOJ12919.java)
 - [CCW](BaekJoon/Gold5/CCW/BOJ11758.java)
