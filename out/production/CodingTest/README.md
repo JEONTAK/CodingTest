@@ -109,6 +109,7 @@
 - [수나누기게임](BaekJoon/Gold5/수나누기게임/BOJ27172.java)
 - [수이어쓰기2](BaekJoon/Gold5/수이어쓰기2/BOJ1790.java)
 - [순열의순서](BaekJoon/Gold5/순열의순서/BOJ1722.java)
+- [순열장난](BaekJoon/Gold5/순열장난/BOJ10597.java)
 - [숨박꼭질3](BaekJoon/Gold5/숨바꼭질3/BOJ13549.java)
 - [숫자고르기](BaekJoon/Gold5/숫자고르기/BOJ2668.java)
 - [숫자카드](BaekJoon/Gold5/숫자카드/BOJ2591.java)
