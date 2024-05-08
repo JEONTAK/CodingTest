@@ -27,6 +27,7 @@
 
 ### Gold 4
 
+- [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [알파벳](BaekJoon/Gold4/알파벳/BOJ1987.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
