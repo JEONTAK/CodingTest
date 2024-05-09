@@ -35,6 +35,7 @@
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
 - [이분그래프](BaekJoon/Gold4/이분그래프/BOJ1707.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
+- [최소스패닝트리](BaekJoon/Gold4/최소스패닝트리/BOJ1197.java)
 - [테트로미노](BaekJoon/Gold4/테트로미노/BOJ14500.java)
 - [특정한최단경로](BaekJoon/Gold4/특정한최단경로/BOJ1504.java)
 
