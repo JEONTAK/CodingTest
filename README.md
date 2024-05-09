@@ -33,6 +33,7 @@
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
 - [알파벳](BaekJoon/Gold4/알파벳/BOJ1987.java)
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
+- [이분그래프](BaekJoon/Gold4/이분그래프/BOJ1707.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
 
 ### Gold 5
