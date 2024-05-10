@@ -32,6 +32,7 @@
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
+- [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
 - [알파벳](BaekJoon/Gold4/알파벳/BOJ1987.java)
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
