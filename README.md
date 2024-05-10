@@ -31,6 +31,7 @@
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
+- [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
