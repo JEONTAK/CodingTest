@@ -49,6 +49,7 @@
 - [타임머신](BaekJoon/Gold4/타임머신/BOJ11657.java)
 - [테트로미노](BaekJoon/Gold4/테트로미노/BOJ14500.java)
 - [특정한최단경로](BaekJoon/Gold4/특정한최단경로/BOJ1504.java)
+- [팰린드롬?](BaekJoon/Gold4/팰린드롬/BOJ10942.java)
 - [플로이드](BaekJoon/Gold4/플로이드/BOJ11404.java)
 
 ### Gold 5
