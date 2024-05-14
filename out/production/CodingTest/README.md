@@ -34,6 +34,7 @@
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
+- [불!](BaekJoon/Gold4/불/BOJ4179.java)
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
 - [알파벳](BaekJoon/Gold4/알파벳/BOJ1987.java)
