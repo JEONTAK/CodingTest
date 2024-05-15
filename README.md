@@ -29,6 +29,7 @@
 
 - [DSLR](BaekJoon/Gold4/DSLR/BOJ9019.java)
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
+- [가장긴바이토긴부분수열](BaekJoon/Gold4/가장긴바이토닉부분수열/BOJ11054.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [공유기설치](BaekJoon/Gold4/공유기설치/BOJ2110.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
@@ -48,6 +49,7 @@
 - [최소스패닝트리](BaekJoon/Gold4/최소스패닝트리/BOJ1197.java)
 - [카드정렬하기](BaekJoon/Gold4/카드정렬하기/BOJ1715.java)
 - [타임머신](BaekJoon/Gold4/타임머신/BOJ11657.java)
+- [탈출](BaekJoon/Gold4/탈출/BOJ3055.java)
 - [테트로미노](BaekJoon/Gold4/테트로미노/BOJ14500.java)
 - [특정한최단경로](BaekJoon/Gold4/특정한최단경로/BOJ1504.java)
 - [팰린드롬?](BaekJoon/Gold4/팰린드롬/BOJ10942.java)
