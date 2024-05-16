@@ -29,6 +29,7 @@
 
 - [DSLR](BaekJoon/Gold4/DSLR/BOJ9019.java)
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
+- [가르침](BaekJoon/Gold4/가르침/BOJ1062.java)
 - [가장긴바이토긴부분수열](BaekJoon/Gold4/가장긴바이토닉부분수열/BOJ11054.java)
 - [감시](BaekJoon/Gold4/감시/BOJ15683.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
