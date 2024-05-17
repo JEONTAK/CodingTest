@@ -24,6 +24,7 @@
 ### Gold 3
 
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
+- [불!](BaekJoon/Gold3/불/BOJ4179.java)
 
 ### Gold 4
 
@@ -39,7 +40,7 @@
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
-- [불!](BaekJoon/Gold4/불/BOJ4179.java)
+- [불](BaekJoon/Gold4/불/BOJ5427.java)
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [숨바꼭질2](BaekJoon/Gold4/숨바꼭질2/BOJ12851.java)
 - [숨바꼭질4](BaekJoon/Gold4/숨바꼭질4/BOJ13913.java)
