@@ -44,6 +44,7 @@
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
 - [불](BaekJoon/Gold4/불/BOJ5427.java)
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
+- [수묶기](BaekJoon/Gold4/수묶기/BOJ1744.java)
 - [숨바꼭질2](BaekJoon/Gold4/숨바꼭질2/BOJ12851.java)
 - [숨바꼭질4](BaekJoon/Gold4/숨바꼭질4/BOJ13913.java)
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
