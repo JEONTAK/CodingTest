@@ -29,6 +29,7 @@
 ### Gold 4
 
 - [DSLR](BaekJoon/Gold4/DSLR/BOJ9019.java)
+- [LCS2](BaekJoon/Gold4/LCS2/BOJ9252.java)
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
 - [가르침](BaekJoon/Gold4/가르침/BOJ1062.java)
 - [가장긴바이토긴부분수열](BaekJoon/Gold4/가장긴바이토닉부분수열/BOJ11054.java)
