@@ -39,6 +39,7 @@
 - [검문](BaekJoon/Gold4/검문/BOJ2981.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [공유기설치](BaekJoon/Gold4/공유기설치/BOJ2110.java)
+- [네트워크연결](BaekJoon/Gold4/네트워크연결/BOJ1922.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [미세먼지안녕!](BaekJoon/Gold4/미세먼지안녕/BOJ17144.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
