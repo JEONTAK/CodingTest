@@ -42,6 +42,7 @@
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [미세먼지안녕!](BaekJoon/Gold4/미세먼지안녕/BOJ17144.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
+- [별찍기-11](BaekJoon/Gold4/별찍기_11/BOJ2448.java)
 - [부분합](BaekJoon/Gold4/부분합/BOJ1806.java)
 - [불](BaekJoon/Gold4/불/BOJ5427.java)
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
