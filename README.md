@@ -36,6 +36,7 @@
 - [가장긴증가하는부분수열4](BaekJoon/Gold4/가장긴증가하는부분수열4/BOJ14002.java)
 - [가장큰정사각형](BaekJoon/Gold4/가장큰정사각형/BOJ1915.java)
 - [감시](BaekJoon/Gold4/감시/BOJ15683.java)
+- [거짓말](BaekJoon/Gold4/거짓말/BOJ1043.java)
 - [검문](BaekJoon/Gold4/검문/BOJ2981.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [공유기설치](BaekJoon/Gold4/공유기설치/BOJ2110.java)
