@@ -38,6 +38,7 @@
 - [감시](BaekJoon/Gold4/감시/BOJ15683.java)
 - [거짓말](BaekJoon/Gold4/거짓말/BOJ1043.java)
 - [검문](BaekJoon/Gold4/검문/BOJ2981.java)
+- [경사로](BaekJoon/Gold4/경사로/BOJ14890.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [공유기설치](BaekJoon/Gold4/공유기설치/BOJ2110.java)
 - [네트워크연결](BaekJoon/Gold4/네트워크연결/BOJ1922.java)
