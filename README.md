@@ -66,6 +66,7 @@
 - [주사위굴리기](BaekJoon/Gold4/주사위굴리기/BOJ14499.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
 - [최소스패닝트리](BaekJoon/Gold4/최소스패닝트리/BOJ1197.java)
+- [치즈](BaekJoon/Gold4/치즈/BOJ2636.java)
 - [카드정렬하기](BaekJoon/Gold4/카드정렬하기/BOJ1715.java)
 - [타일채우기](BaekJoon/Gold4/타일채우기/BOJ2133.java)
 - [타임머신](BaekJoon/Gold4/타임머신/BOJ11657.java)
