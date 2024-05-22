@@ -61,6 +61,7 @@
 - [여행가자](BaekJoon/Gold4/여행가자/BOJ1976.java)
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
 - [오큰수](BaekJoon/Gold4/오큰수/BOJ17298.java)
+- [이모티콘](BaekJoon/Gold4/이모티콘/BOJ14226.java)
 - [이분그래프](BaekJoon/Gold4/이분그래프/BOJ1707.java)
 - [이중우선순위큐](BaekJoon/Gold4/이중우선순위큐/BOJ7662.java)
 - [인구이동](BaekJoon/Gold4/인구이동/BOJ16234.java)
