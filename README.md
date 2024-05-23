@@ -46,6 +46,7 @@
 - [녹색옷입은애가젤다지?](BaekJoon/Gold4/녹색옷입은애가젤다지/BOJ4485.java)
 - [단어수학](BaekJoon/Gold4/단어수학/BOJ1339.java)
 - [도시분할계획](BaekJoon/Gold4/도시분할계획/BOJ1647.java)
+- [마법사상어와파이어볼](BaekJoon/Gold4/마법사상어와파이어볼/BOJ20056.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [미세먼지안녕!](BaekJoon/Gold4/미세먼지안녕/BOJ17144.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
