@@ -57,6 +57,7 @@
 - [숨바꼭질2](BaekJoon/Gold4/숨바꼭질2/BOJ12851.java)
 - [숨바꼭질4](BaekJoon/Gold4/숨바꼭질4/BOJ13913.java)
 - [스도쿠](BaekJoon/Gold4/스도쿠/BOJ2580.java)
+- [스도쿠](BaekJoon/Gold4/스도쿠2/BOJ2239.java)
 - [알고스팟](BaekJoon/Gold4/알고스팟/BOJ1261.java)
 - [알파벳](BaekJoon/Gold4/알파벳/BOJ1987.java)
 - [여행가자](BaekJoon/Gold4/여행가자/BOJ1976.java)
