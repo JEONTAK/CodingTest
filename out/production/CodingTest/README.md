@@ -69,6 +69,7 @@
 - [이모티콘](BaekJoon/Gold4/이모티콘/BOJ14226.java)
 - [이분그래프](BaekJoon/Gold4/이분그래프/BOJ1707.java)
 - [이중우선순위큐](BaekJoon/Gold4/이중우선순위큐/BOJ7662.java)
+- [이차원배열과연산](BaekJoon/Gold4/이차원배열과연산/BOJ17140.java)
 - [인구이동](BaekJoon/Gold4/인구이동/BOJ16234.java)
 - [전화번호목록](BaekJoon/Gold4/전화번호목록/BOJ5052.java)
 - [좋다](BaekJoon/Gold4/좋다/BOJ1253.java)
