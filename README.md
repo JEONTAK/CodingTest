@@ -78,6 +78,7 @@
 - [최소스패닝트리](BaekJoon/Gold4/최소스패닝트리/BOJ1197.java)
 - [치즈](BaekJoon/Gold4/치즈/BOJ2636.java)
 - [카드정렬하기](BaekJoon/Gold4/카드정렬하기/BOJ1715.java)
+- [키순서](BaekJoon/Gold4/키순서/BOJ2458.java)
 - [타일채우기](BaekJoon/Gold4/타일채우기/BOJ2133.java)
 - [타임머신](BaekJoon/Gold4/타임머신/BOJ11657.java)
 - [탈출](BaekJoon/Gold4/탈출/BOJ3055.java)
