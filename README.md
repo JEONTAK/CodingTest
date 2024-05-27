@@ -71,6 +71,7 @@
 - [이중우선순위큐](BaekJoon/Gold4/이중우선순위큐/BOJ7662.java)
 - [이차원배열과연산](BaekJoon/Gold4/이차원배열과연산/BOJ17140.java)
 - [인구이동](BaekJoon/Gold4/인구이동/BOJ16234.java)
+- [전력난](BaekJoon/Gold4/전력난/BOJ6497.java)
 - [전화번호목록](BaekJoon/Gold4/전화번호목록/BOJ5052.java)
 - [좋다](BaekJoon/Gold4/좋다/BOJ1253.java)
 - [주사위굴리기](BaekJoon/Gold4/주사위굴리기/BOJ14499.java)
