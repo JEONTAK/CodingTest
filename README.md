@@ -58,6 +58,7 @@
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [사이클](BaekJoon/Gold4/사이클/BOJ20040.java)
 - [서강그라운드](BaekJoon/Gold4/서강그라운드/BOJ14938.java)
+- [소수경로](BaekJoon/Gold4/소수경로/BOJ1963.java)
 - [수묶기](BaekJoon/Gold4/수묶기/BOJ1744.java)
 - [숨바꼭질2](BaekJoon/Gold4/숨바꼭질2/BOJ12851.java)
 - [숨바꼭질4](BaekJoon/Gold4/숨바꼭질4/BOJ13913.java)
