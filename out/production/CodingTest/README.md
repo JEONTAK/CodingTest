@@ -80,6 +80,7 @@
 - [전력난](BaekJoon/Gold4/전력난/BOJ6497.java)
 - [전화번호목록](BaekJoon/Gold4/전화번호목록/BOJ5052.java)
 - [좋다](BaekJoon/Gold4/좋다/BOJ1253.java)
+- [좋은수열](BaekJoon/Gold4/좋은수열/BOJ2661.java)
 - [주사위굴리기](BaekJoon/Gold4/주사위굴리기/BOJ14499.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
 - [최소스패닝트리](BaekJoon/Gold4/최소스패닝트리/BOJ1197.java)
