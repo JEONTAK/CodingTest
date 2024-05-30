@@ -51,6 +51,7 @@
 - [단어수학](BaekJoon/Gold4/단어수학/BOJ1339.java)
 - [도시분할계획](BaekJoon/Gold4/도시분할계획/BOJ1647.java)
 - [돌그룹](BaekJoon/Gold4/돌그룹/BOJ12886.java)
+- [두동전](BaekJoon/Gold4/두동전/BOJ16197.java)
 - [마법사상어와파이어볼](BaekJoon/Gold4/마법사상어와파이어볼/BOJ20056.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [미로만들기](BaekJoon/Gold4/미로만들기/BOJ2665.java)
