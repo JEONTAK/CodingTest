@@ -34,6 +34,7 @@
 - [PuyoPuyo](BaekJoon/Gold4/PuyoPuyo/BOJ11559.java)
 - [RGB거리2](BaekJoon/Gold4/RGB거리2/BOJ17404.java)
 - [가르침](BaekJoon/Gold4/가르침/BOJ1062.java)
+- [가장가까운공통조상](BaekJoon/Gold4/가장가까운공통조상/BOJ3584.java)
 - [가장긴바이토긴부분수열](BaekJoon/Gold4/가장긴바이토닉부분수열/BOJ11054.java)
 - [가장긴증가하는부분수열4](BaekJoon/Gold4/가장긴증가하는부분수열4/BOJ14002.java)
 - [가장큰정사각형](BaekJoon/Gold4/가장큰정사각형/BOJ1915.java)
