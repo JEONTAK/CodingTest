@@ -79,6 +79,7 @@
 - [⚾](BaekJoon/Gold4/야구/BOJ17281.java)
 - [여행가자](BaekJoon/Gold4/여행가자/BOJ1976.java)
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
+- [연구소2](BaekJoon/Gold4/연구소2/BOJ17141.java)
 - [오큰수](BaekJoon/Gold4/오큰수/BOJ17298.java)
 - [운동](BaekJoon/Gold4/운동/BOJ1956.java)
 - [월드컵](BaekJoon/Gold4/월드컵/BOJ6987.java)
