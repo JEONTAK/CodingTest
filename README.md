@@ -28,6 +28,7 @@
 
 ### Gold 4
 
+- [CountCircleGroups](BaekJoon/Gold4/CountCircleGroups/BOJ10216.java)
 - [DSLR](BaekJoon/Gold4/DSLR/BOJ9019.java)
 - [LCS2](BaekJoon/Gold4/LCS2/BOJ9252.java)
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
