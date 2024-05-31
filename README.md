@@ -57,6 +57,7 @@
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
 - [미로만들기](BaekJoon/Gold4/미로만들기/BOJ2665.java)
 - [미세먼지안녕!](BaekJoon/Gold4/미세먼지안녕/BOJ17144.java)
+- [미친로봇](BaekJoon/Gold4/미친로봇/BOJ1405.java)
 - [배열돌리기4](BaekJoon/Gold4/배열돌리기4/BOJ17406.java)
 - [뱀](BaekJoon/Gold4/뱀/BOJ3190.java)
 - [별찍기-11](BaekJoon/Gold4/별찍기_11/BOJ2448.java)
