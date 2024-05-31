@@ -66,6 +66,7 @@
 - [빙산](BaekJoon/Gold4/빙산/BOJ2573.java)
 - [사냥꾼](BaekJoon/Gold4/사냥꾼/BOJ8983.java)
 - [사이클](BaekJoon/Gold4/사이클/BOJ20040.java)
+- [사탕가게](BaekJoon/Gold4/사탕가게/BOJ4781.java)
 - [서강그라운드](BaekJoon/Gold4/서강그라운드/BOJ14938.java)
 - [세수의합](BaekJoon/Gold4/세수의합/BOJ2295.java)
 - [소수경로](BaekJoon/Gold4/소수경로/BOJ1963.java)
