@@ -115,7 +115,7 @@
 - [플로이드](BaekJoon/Gold4/플로이드/BOJ11404.java)
 - [해킹](BaekJoon/Gold4/해킹/BOJ10282.java)
 - [회전초밥](BaekJoon/Gold4/회전초밥/BOJ15961.java)
-
+- [휴게소세우기](BaekJoon/Gold4/휴게소세우기/BOJ1477.java)
 ### Gold 5
 
 - [0만들기](BaekJoon/Gold5/_0만들기/BOJ7490.java)
