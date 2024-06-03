@@ -32,6 +32,7 @@
 - [DSLR](BaekJoon/Gold4/DSLR/BOJ9019.java)
 - [LCS2](BaekJoon/Gold4/LCS2/BOJ9252.java)
 - [N-Queen](BaekJoon/Gold4/N_Queen/BOJ9663.java)
+- [PPAP](BaekJoon/Gold4/PPAP/BOJ16120.java)
 - [PuyoPuyo](BaekJoon/Gold4/PuyoPuyo/BOJ11559.java)
 - [RGB거리2](BaekJoon/Gold4/RGB거리2/BOJ17404.java)
 - [TwoDots](BaekJoon/Gold4/TwoDots/BOJ16929.java)
