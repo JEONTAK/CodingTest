@@ -87,6 +87,7 @@
 - [연구소](BaekJoon/Gold4/연구소/BOJ14502.java)
 - [연구소2](BaekJoon/Gold4/연구소2/BOJ17141.java)
 - [오큰수](BaekJoon/Gold4/오큰수/BOJ17298.java)
+- [우체국](BaekJoon/Gold4/우체국/BOJ2141.java)
 - [운동](BaekJoon/Gold4/운동/BOJ1956.java)
 - [월드컵](BaekJoon/Gold4/월드컵/BOJ6987.java)
 - [이모티콘](BaekJoon/Gold4/이모티콘/BOJ14226.java)
