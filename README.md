@@ -61,6 +61,7 @@
 - [두동전](BaekJoon/Gold4/두동전/BOJ16197.java)
 - [마법사상어와파이어볼](BaekJoon/Gold4/마법사상어와파이어볼/BOJ20056.java)
 - [문자열폭발](BaekJoon/Gold4/문자열폭발/BOJ9935.java)
+- [뮤탈리스크](BaekJoon/Gold4/뮤탈리스크/BOJ12869.java)
 - [미로만들기](BaekJoon/Gold4/미로만들기/BOJ2665.java)
 - [미세먼지안녕!](BaekJoon/Gold4/미세먼지안녕/BOJ17144.java)
 - [미친로봇](BaekJoon/Gold4/미친로봇/BOJ1405.java)
