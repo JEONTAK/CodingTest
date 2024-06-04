@@ -49,6 +49,7 @@
 - [고스택](BaekJoon/Gold4/고스택/BOJ3425.java)
 - [고층건물](BaekJoon/Gold4/고층건물/BOJ1027.java)
 - [공유기설치](BaekJoon/Gold4/공유기설치/BOJ2110.java)
+- [괄호](BaekJoon/Gold4/괄호/BOJ10422.java)
 - [구슬찾기](BaekJoon/Gold4/구슬찾기/BOJ2617.java)
 - [네트워크연결](BaekJoon/Gold4/네트워크연결/BOJ1922.java)
 - [녹색옷입은애가젤다지?](BaekJoon/Gold4/녹색옷입은애가젤다지/BOJ4485.java)
