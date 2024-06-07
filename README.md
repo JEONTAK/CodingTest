@@ -27,6 +27,7 @@
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
+- [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
 
 ### Gold 4
 
