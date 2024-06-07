@@ -24,6 +24,7 @@
 ### Gold 3
 
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
+- [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
 
 ### Gold 4
