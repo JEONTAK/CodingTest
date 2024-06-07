@@ -102,6 +102,7 @@
 - [전화번호목록](BaekJoon/Gold4/전화번호목록/BOJ5052.java)
 - [좋다](BaekJoon/Gold4/좋다/BOJ1253.java)
 - [좋은수열](BaekJoon/Gold4/좋은수열/BOJ2661.java)
+- [좋은친구](BaekJoon/Gold4/좋은친구/BOJ3078.java)
 - [주사위굴리기](BaekJoon/Gold4/주사위굴리기/BOJ14499.java)
 - [줄세우기](BaekJoon/Gold4/줄세우기/BOJ2631.java)
 - [최단경로](BaekJoon/Gold4/최단경로/BOJ1753.java)
