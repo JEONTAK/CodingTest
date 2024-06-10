@@ -26,6 +26,7 @@
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
 - [나무제테크](BaekJoon/Gold3/나무제테크/BOJ16235.java)
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
+- [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
 - [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
