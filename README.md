@@ -24,6 +24,7 @@
 ### Gold 3
 
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
+- [나머지합](BaekJoon/Gold3/나머지합/BOJ10986.java)
 - [나무제테크](BaekJoon/Gold3/나무제테크/BOJ16235.java)
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
 - [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
