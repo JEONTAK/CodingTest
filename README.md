@@ -35,6 +35,7 @@
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [텀프로젝트](BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
+- [파티](BaekJoon/Gold3/파티/BOJ1238.java)
 
 ### Gold 4
 
