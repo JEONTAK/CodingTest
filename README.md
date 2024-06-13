@@ -41,6 +41,7 @@
 - [중량제한](BaekJoon/Gold3/중량제한/BOJ1939.java)
 - [텀프로젝트](BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](BaekJoon/Gold3/파티/BOJ1238.java)
+- [행렬곱셈순서](BaekJoon/Gold3/행렬곱셈순서/BOJ11049.java)
 
 ### Gold 4
 
