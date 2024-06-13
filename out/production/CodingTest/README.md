@@ -34,6 +34,7 @@
 - [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
 - [소수의연속합](BaekJoon/Gold3/소수의연속합/BOJ1644.java)
 - [아기상어](BaekJoon/Gold3/아기상어/BOJ16236.java)
+- [앱](BaekJoon/Gold3/앱/BOJ7579.java)
 - [연구소3](BaekJoon/Gold3/연구소3/BOJ17142.java)
 - [욕심쟁이판다](BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
