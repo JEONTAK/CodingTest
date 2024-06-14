@@ -40,6 +40,7 @@
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [중량제한](BaekJoon/Gold3/중량제한/BOJ1939.java)
+- [최소비용구하기2](BaekJoon/Gold3/최소비용구하기2/BOJ11779.java)
 - [캐슬디펜스](BaekJoon/Gold3/캐슬디펜스/BOJ17135.java)
 - [텀프로젝트](BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
 - [파티](BaekJoon/Gold3/파티/BOJ1238.java)
