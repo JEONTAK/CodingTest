@@ -28,6 +28,7 @@
 - [나무제테크](BaekJoon/Gold3/나무제테크/BOJ16235.java)
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
 - [다리만들기](BaekJoon/Gold3/다리만들기/BOJ2146.java)
+- [두배열의합](BaekJoon/Gold3/두배열의합/BOJ2143.java)
 - [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [벽부수고이동하기2](BaekJoon/Gold3/벽부수고이동하기2/BOJ14442.java)
