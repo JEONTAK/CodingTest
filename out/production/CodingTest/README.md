@@ -45,6 +45,7 @@
 - [캐슬디펜스](BaekJoon/Gold3/캐슬디펜스/BOJ17135.java)
 - [크게만들기](BaekJoon/Gold3/크게만들기/BOJ2812.java)
 - [텀프로젝트](BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
+- [파일합치기](BaekJoon/Gold3/파일합치기/BOJ11066.java)
 - [파티](BaekJoon/Gold3/파티/BOJ1238.java)
 - [행렬곱셈순서](BaekJoon/Gold3/행렬곱셈순서/BOJ11049.java)
 
