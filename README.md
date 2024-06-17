@@ -32,6 +32,7 @@
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
 - [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
+- [세용액](BaekJoon/Gold3/세용액/BOJ2473.java)
 - [소수의연속합](BaekJoon/Gold3/소수의연속합/BOJ1644.java)
 - [아기상어](BaekJoon/Gold3/아기상어/BOJ16236.java)
 - [앱](BaekJoon/Gold3/앱/BOJ7579.java)
