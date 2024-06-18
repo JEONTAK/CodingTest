@@ -44,6 +44,7 @@
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [중량제한](BaekJoon/Gold3/중량제한/BOJ1939.java)
 - [최소비용구하기2](BaekJoon/Gold3/최소비용구하기2/BOJ11779.java)
+- [치즈](BaekJoon/Gold3/치즈/BOJ2638.java)
 - [캐슬디펜스](BaekJoon/Gold3/캐슬디펜스/BOJ17135.java)
 - [크게만들기](BaekJoon/Gold3/크게만들기/BOJ2812.java)
 - [텀프로젝트](BaekJoon/Gold3/텀프로젝트/BOJ9466.java)
