@@ -26,6 +26,7 @@
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
 - [LCA](BaekJoon/Gold3/LCA/BOJ11437.java)
 - [게리맨더링](BaekJoon/Gold3/게리맨더링/BOJ17471.java)
+- [게임개발](BaekJoon/Gold3/게임개발/BOJ1516.java)
 - [나머지합](BaekJoon/Gold3/나머지합/BOJ10986.java)
 - [나무제테크](BaekJoon/Gold3/나무제테크/BOJ16235.java)
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
