@@ -26,7 +26,8 @@
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
 - [LCA](BaekJoon/Gold3/LCA/BOJ11437.java)
 - [게리맨더링](BaekJoon/Gold3/게리맨더링/BOJ17471.java)
-- [게임개발](BaekJoon/Gold3/게임개발/BOJ1516.java)
+- [게임개발](BaekJoon/Gold3/게임개발/BOJ1516.java
+- [괄호추가하기](BaekJoon/Gold3/괄호추가하기/BOJ16637.java)
 - [나머지합](BaekJoon/Gold3/나머지합/BOJ10986.java)
 - [나무제테크](BaekJoon/Gold3/나무제테크/BOJ16235.java)
 - [내리막길](BaekJoon/Gold3/내리막길/BOJ1520.java)
@@ -46,6 +47,7 @@
 - [양팔저울](BaekJoon/Gold3/양팔저울/BOJ2629.java)
 - [연구소3](BaekJoon/Gold3/연구소3/BOJ17142.java)
 - [욕심쟁이판다](BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
+- [우주신과의교감](BaekJoon/Gold3/우주신과의교감/BOJ1774.java)
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [중량제한](BaekJoon/Gold3/중량제한/BOJ1939.java)
