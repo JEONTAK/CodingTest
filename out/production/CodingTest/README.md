@@ -34,6 +34,7 @@
 - [다리만들기](BaekJoon/Gold3/다리만들기/BOJ2146.java)
 - [두배열의합](BaekJoon/Gold3/두배열의합/BOJ2143.java)
 - [드래곤커브](BaekJoon/Gold3/드래곤커브/BOJ15685.java)
+- [레이저통신](BaekJoon/Gold3/레이저통신/BOJ6087.java)
 - [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [벽부수고이동하기2](BaekJoon/Gold3/벽부수고이동하기2/BOJ14442.java)
