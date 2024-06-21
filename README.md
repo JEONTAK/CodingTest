@@ -49,6 +49,7 @@
 - [앱](BaekJoon/Gold3/앱/BOJ7579.java)
 - [양팔저울](BaekJoon/Gold3/양팔저울/BOJ2629.java)
 - [연구소3](BaekJoon/Gold3/연구소3/BOJ17142.java)
+- [오등큰수](BaekJoon/Gold3/오등큰수/BOJ17299.java)
 - [욕심쟁이판다](BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
 - [우주신과의교감](BaekJoon/Gold3/우주신과의교감/BOJ1774.java)
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
