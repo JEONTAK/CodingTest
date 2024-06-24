@@ -49,6 +49,7 @@
 - [아기상어](BaekJoon/Gold3/아기상어/BOJ16236.java)
 - [앱](BaekJoon/Gold3/앱/BOJ7579.java)
 - [양팔저울](BaekJoon/Gold3/양팔저울/BOJ2629.java)
+- [역사](BaekJoon/Gold3/역사/BOJ1613.java)
 - [연구소3](BaekJoon/Gold3/연구소3/BOJ17142.java)
 - [오등큰수](BaekJoon/Gold3/오등큰수/BOJ17299.java)
 - [욕심쟁이판다](BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
