@@ -40,6 +40,7 @@
 - [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [벽부수고이동하기2](BaekJoon/Gold3/벽부수고이동하기2/BOJ14442.java)
+- [별자리만들기](BaekJoon/Gold3/별자리만들기/BOJ4386.java)
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
 - [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
 - [사회망서비스(SNS)](BaekJoon/Gold3/사회망서비스/BOJ2533.java)
