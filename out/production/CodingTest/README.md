@@ -46,6 +46,7 @@
 - [사회망서비스(SNS)](BaekJoon/Gold3/사회망서비스/BOJ2533.java)
 - [세용액](BaekJoon/Gold3/세용액/BOJ2473.java)
 - [소수의연속합](BaekJoon/Gold3/소수의연속합/BOJ1644.java)
+- [소용돌이예쁘게출력하기](BaekJoon/Gold3/소용돌이예쁘게출력하기/BOJ1022.java)
 - [아기상어](BaekJoon/Gold3/아기상어/BOJ16236.java)
 - [앱](BaekJoon/Gold3/앱/BOJ7579.java)
 - [양팔저울](BaekJoon/Gold3/양팔저울/BOJ2629.java)
