@@ -37,6 +37,7 @@
 - [드래곤커브](BaekJoon/Gold3/드래곤커브/BOJ15685.java)
 - [레이저통신](BaekJoon/Gold3/레이저통신/BOJ6087.java)
 - [로봇](BaekJoon/Gold3/로봇/BOJ1726.java)
+- [마법사상어와파이어스톰](BaekJoon/Gold3/마법사상어와파이어스톰/BOJ20058.java)
 - [말이되고픈원숭위](BaekJoon/Gold3/말이되고픈원숭이/BOJ1600.java)
 - [벽부수고이동하기](BaekJoon/Gold3/벽부수고이동하기/BOJ2206.java)
 - [벽부수고이동하기2](BaekJoon/Gold3/벽부수고이동하기2/BOJ14442.java)
