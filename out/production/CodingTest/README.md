@@ -60,6 +60,7 @@
 - [음악프로그램](BaekJoon/Gold3/음악프로그램/BOJ2623.java)
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
 - [중량제한](BaekJoon/Gold3/중량제한/BOJ1939.java)
+- [최대유량](BaekJoon/Gold3/최대유량/BOJ6086.java)
 - [최소비용구하기2](BaekJoon/Gold3/최소비용구하기2/BOJ11779.java)
 - [치즈](BaekJoon/Gold3/치즈/BOJ2638.java)
 - [캐슬디펜스](BaekJoon/Gold3/캐슬디펜스/BOJ17135.java)
