@@ -58,6 +58,7 @@
 - [오등큰수](BaekJoon/Gold3/오등큰수/BOJ17299.java)
 - [욕심쟁이판다](BaekJoon/Gold3/욕심쟁이판다/BOJ1937.java)
 - [우주신과의교감](BaekJoon/Gold3/우주신과의교감/BOJ1774.java)
+- [움직이는미로탈출](BaekJoon/Gold3/움직이는미로탈출/BOJ16954.java)
 - [웜홀](BaekJoon/Gold3/웜홀/BOJ1865.java)
 - [음악프로그램](BaekJoon/Gold3/음악프로그램/BOJ2623.java)
 - [줄세우기](BaekJoon/Gold3/줄세우기/BOJ2252.java)
