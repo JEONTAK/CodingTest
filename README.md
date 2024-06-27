@@ -24,6 +24,7 @@
 ### Gold 3
 
 - [ACMCraft](BaekJoon/Gold3/ACM_Craft/BOJ1005.java)
+- [IQTest](BaekJoon/Gold3/IQTest/BOJ1111.java)
 - [LCA](BaekJoon/Gold3/LCA/BOJ11437.java)
 - [게리맨더링](BaekJoon/Gold3/게리맨더링/BOJ17471.java)
 - [게임개발](BaekJoon/Gold3/게임개발/BOJ1516.java)
