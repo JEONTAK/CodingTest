@@ -47,6 +47,7 @@
 - [불!](BaekJoon/Gold3/불/BOJ4179.java)
 - [사다리조작](BaekJoon/Gold3/사다리조작/BOJ15684.java)
 - [사회망서비스(SNS)](BaekJoon/Gold3/사회망서비스/BOJ2533.java)
+- [색상환](BaekJoon/Gold3/색상환/BOJ2482.java)
 - [세용액](BaekJoon/Gold3/세용액/BOJ2473.java)
 - [소문난칠공주](BaekJoon/Gold3/소문난칠공주/BOJ1941.java)
 - [소수의연속합](BaekJoon/Gold3/소수의연속합/BOJ1644.java)
