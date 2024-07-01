@@ -28,6 +28,7 @@
 - [IQTest](BaekJoon/Gold3/IQTest/BOJ1111.java)
 - [LCA](BaekJoon/Gold3/LCA/BOJ11437.java)
 - [게리맨더링](BaekJoon/Gold3/게리맨더링/BOJ17471.java)
+- [게리맨더링2](BaekJoon/Gold3/게리맨더링2/BOJ17779.java)
 - [게임개발](BaekJoon/Gold3/게임개발/BOJ1516.java)
 - [공주님의정원](BaekJoon/Gold3/공주님의정원/BOJ2457.java)
 - [괄호추가하기](BaekJoon/Gold3/괄호추가하기/BOJ16637.java)
